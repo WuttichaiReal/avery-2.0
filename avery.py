@@ -396,10 +396,8 @@ class Avery:
                           {self.color}╔═╗╦  ╦╔═╗╦═╗╦ ╦  ╔╗╔╦ ╦╦╔═╔═╗╦═╗
                           \033[90m╠═╣╚╗╔╝║╣ ╠╦╝╚╦╝  ║║║║ ║╠╩╗║╣ ╠╦╝
                           {self.color}╩ ╩ ╚╝ ╚═╝╩╚═ ╩   ╝╚╝╚═╝╩ ╩╚═╝╩╚═
-                            {self.color}[{self.reset}Discord{self.color}]{self.reset} skeet#1000
-                            {self.color}[{self.reset}Github{self.color}]{self.reset} skeqt
-                            {self.color}[{self.reset}Discord{self.color}]{self.reset} Exortions#8077
-                            {self.color}[{self.reset}Github{self.color}]{self.reset} Exortions
+                            {self.color}[{self.reset}Discord{self.color}]{self.reset} 𝓛𝓘𝓚𝓔_𝓑.𝓮𝔁𝓮#4773
+                            {self.color}[{self.reset}Github{self.color}]{self.reset} Wuttichai
         {self.reset}''')
     
     async def ThemeChanger(self):
@@ -464,17 +462,15 @@ class Avery:
         {self.color}║ {self.reset}[{self.color}1{self.reset}] {self.reset}Ban Members       {self.color}║{self.reset} [{self.color}5{self.reset}] {self.reset}Delete Channels   {self.color}║{self.reset} [{self.color}9{self.reset}] {self.reset}Scrape Info       {self.color}║{self.reset}
         {self.color}║ {self.reset}[{self.color}2{self.reset}] {self.reset}Kick Members      {self.color}║{self.reset} [{self.color}6{self.reset}] {self.reset}Create Roles      {self.color}║{self.reset} [{self.color}0{self.reset}] {self.reset}Change Themes     {self.color}║{self.reset}
         {self.color}║ {self.reset}[{self.color}3{self.reset}] {self.reset}Log Out           {self.color}║{self.reset} [{self.color}7{self.reset}] {self.reset}Create Channels   {self.color}║{self.reset} [{self.color}C{self.reset}] {self.reset}View Credits      {self.color}║{self.reset}
-        {self.color}║ {self.reset}[{self.color}4{self.reset}] {self.reset}Delete Roles      {self.color}║{self.reset} [{self.color}8{self.reset}] {self.reset}Nuke Server       {self.color}║{self.reset} [{self.color}X{self.reset}] {self.reset}Exit              {self.color}║{self.reset}
+        {self.color}║ {self.reset}[{self.color}4{self.reset}] {self.reset}Delete Roles      {self.color}║{self.reset} [{self.color}8{self.reset}] {self.reset}Nuke Server       {self.color}║{self.reset} [{self.color}X{self.reset}] {self.reset}Exit              {self.color}║{self.reset}          {self.color}║{self.reset}
         {self.color}╚═══════════════════════╩═══════════════════════╩═══════════════════════╝{self.reset}
-                
+
         {self.reset}''')
 
         choice = input(f'{self.color}> {self.reset}Choice{self.color}: {self.reset}')
         if choice == '1':
             await self.Ban()
             time.sleep(2)
-            await self.Menu()
-        elif choice == '2':
             await self.Kick()
             time.sleep(2)
             await self.Menu()
