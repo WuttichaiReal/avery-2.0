@@ -27,10 +27,3 @@ Important! Make sure to use [9] (Scrape Info) before using these, or some things
 [C] View credits
 <br> - View all credits for Avery 2.0.<br>
 [X] Exit
-<br> - Exits Avery 2.0.<br>
-
-# Configuration
-On initial startup, Avery 2.0 will ask for the bot token, and all settings will be saved to the config.json file.<br>
-To edit settings, open the config.json file and edit from there.
-
-We do not take any responsibility for your actions using this.
