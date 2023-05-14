@@ -15,14 +15,25 @@
 
 
 [1] Ban members
+
 [2] Kick members
+
 [3] Prune members
+
 [4] Delete roles
+
 [5] Delete channels
+
 [6] Create roles
+
 [7] Create channels
+
 [8] Nuke server
+
 [9] Scrape Info
+
 [0] Chane themes
+
 [C] View credits
+
 [X] Exit
