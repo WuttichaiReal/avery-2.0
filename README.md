@@ -1,29 +1,16 @@
-# How to use
-Double click avery.exe, and follow the prompts
 
-# Features
-Important! Make sure to use [9] (Scrape Info) before using these, or some things may not work!<br><br>
+![image](https://user-images.githubusercontent.com/118094382/236569654-8f00dbbc-9fa7-4eeb-900c-bbe6a48dc334.png)
 
+𝓓𝓲𝓼𝓬𝓸𝓻𝓭: 𝓛𝓘𝓚𝓔_𝓑.𝓮𝔁𝓮#4773
 [1] Ban members
-<br> - Bans all members in the specified server.<br>
 [2] Kick members
-<br> - Kicks all members in the specified server.<br>
 [3] Prune members
-<br> - Prunes all members in the specified server.<br>
 [4] Delete roles
-<br> - Deletes all roles in specified server.<br>
 [5] Delete channels
-<br> - Deletes all channels in specified server.<br>
 [6] Create roles
-<br> - Creates specified amount of roles in the specified server with a certain name.<br>
 [7] Create channels
-<br> - Creates specified amount of channels in the specified server with a certain name.<br>
 [8] Nuke server
-<br> - Nukes the specified server. Deletes all channels, deletes all roles, bans all members, creates new channels, creates new roles.<br>
 [9] Scrape Info
-<br> - Grabs all info from specified server. Must execute before using any commands.<br>
 [0] Chane themes
-<br> - Changes the theme of Avery 2.0. Will save on exit.<br>
 [C] View credits
-<br> - View all credits for Avery 2.0.<br>
 [X] Exit
