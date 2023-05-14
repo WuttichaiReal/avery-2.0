@@ -33,8 +33,4 @@ Important! Make sure to use [9] (Scrape Info) before using these, or some things
 On initial startup, Avery 2.0 will ask for the bot token, and all settings will be saved to the config.json file.<br>
 To edit settings, open the config.json file and edit from there.
 
-# Credits
-skeet#1000 - Original Avery creation<br>
-Exortions#8077 - Avery 2.0 revamp
-
 We do not take any responsibility for your actions using this.
